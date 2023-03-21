@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 Hello, my name is Divyansh Kachchhava and I am a undergrad student at [University of Toronto](https://www.utoronto.ca/) specializing in Computer Science and under the software engineering stream. My technology stack popular programming languages such as Python, Java, C++ and have more than 3 years of experience in android developent and web development. Besides programming, I have an immense interest in world history.
 
 - 👋 Hi, My name is Divyansh Kachchhava
-- 👀 I’m interested in front-end, back-end and full stack develpoing
+- 👀 I’m interested in front-end, back-end and full stack development
 - 🌱 I’m currently learning software enginerring at University of Toronto
 - 💞️ I’m looking to collaborate on cs projects 
-- 📫 my email is divyansh.kachchhava@mail.utoronto.ca 
+- 📫 my email is divyansh.kachchhava@mail.utoronto.ca - 
+- 🔭 I’m currently learning React
 - My portfolio website: https://divyanshuoft.github.io/https-divyansh.github.io-/
 - 📝 [Resume](https://divyanshuoft.github.io/https-divyansh.github.io-/DivyanshKachchhava.pdf)
 
