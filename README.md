@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, my name is Divyansh Kachchhava and I am a undergrad student at [University of Toronto](https://www.utoronto.ca/) specializing in Computer Science and under the software engineering stream. My technology stack popular programming languages such as Python, Java, C++ and have more than 3 years of experience in android developent and web development. Besides programming, I have an immense interest in world history.
+Hello, my name is Divyansh Kachchhava and I am a undergrad student at [University of Toronto](https://www.utoronto.ca/) specializing in Computer Science and under the software engineering stream. My technology stack popular programming languages such as Python, Java, C++ and have more than 3 years of experience in android developent and web development. As a software developer, my vision is to create innovative solutions that positively impact the world by leveraging cutting-edge technology and my expertise in software engineering
 
-- 👋 Hi, My name is Divyansh Kachchhava
 - 👀 I’m interested in front-end, back-end and full stack development
 - 🌱 I’m currently learning software enginerring at University of Toronto
 - 💞️ I’m looking to collaborate on cs projects 
