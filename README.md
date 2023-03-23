@@ -23,7 +23,7 @@ Hello, my name is Divyansh Kachchhava and I am a undergrad student at [Universit
 - 📫 my email is divyansh.kachchhava@mail.utoronto.ca - 
 - 🔭 I’m currently learning React
 - My portfolio website: https://divyanshuoft.github.io/https-divyansh.github.io-/
-- 📝 [Resume](https://divyanshuoft.github.io/https-divyansh.github.io-/DivyanshKachchhava.pdf)
+- View my 📝 [Resume](https://divyanshuoft.github.io/https-divyansh.github.io-/DivyanshKachchhava.pdf)
 
 **Languages and Tools:** 
 <div>
