@@ -1,4 +1,4 @@
-### Hi there 👋, I am [Divyansh Kachchhava](https://divyanshuoft.github.io/https-divyansh.github.io-/)! 😁
+### Hi there 👋 I am [Divyansh Kachchhava](https://divyanshuoft.github.io/https-divyansh.github.io-/)! 👨‍💻
 <!--
 **rusty-sj/rusty-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
