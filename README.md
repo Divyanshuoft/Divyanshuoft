@@ -1,4 +1,6 @@
 ### Hi there 👋 I am [Divyansh Kachchhava](https://divyanshuoft.github.io/https-divyansh.github.io-/)! 👨‍💻
+<img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="Example GIF">
+
 <!--
 **rusty-sj/rusty-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
