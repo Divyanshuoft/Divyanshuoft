@@ -25,6 +25,10 @@ Hello, my name is Divyansh Kachchhava and I am a undergrad student at [Universit
 - My portfolio website: https://divyanshuoft.github.io/https-divyansh.github.io-/
 - View my 📝 [Resume](https://divyanshuoft.github.io/https-divyansh.github.io-/DivyanshKachchhava.pdf)
 
+As a student of Computer Science at the esteemed University of Toronto, I am an accomplished software engineer specializing in the intricate art of Software Engineering. I am a dynamic and accomplished software developer, armed with a deep understanding of object-oriented programming and broad experience in Android and web development.
+
+My relentless pursuit of new knowledge and projects has earned me a reputation as a versatile and industrious individual. My hobbies, including skiing, ice-skating, and air-rifle shooting, showcase my versatility and leadership potential. I am destined for greatness in the realm of technology
+
 **Languages and Tools:** 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
