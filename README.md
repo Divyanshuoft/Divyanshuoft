@@ -25,7 +25,7 @@ I'm [Divyansh Kachchhava](https://divyanshuoft.github.io/https-divyansh.github.i
 - 🌱 I’m a student studying computer science under the software enginerring stream at University of Toronto
 - 💞️ I’m looking to collaborate on cs projects focusing on web development
 - 📫 my email is divyansh.kachchhava@mail.utoronto.ca 
-- 🔭 I’m currently learning React and Back-end development from Meta courses at Coursera
+- 🔭 I’m currently learning game development using Assembly (Yes, you heard it right! I'm making one of those 80s n 90s old fashion game)
 - My portfolio website: https://divyanshuoft.github.io/https-divyansh.github.io-/
 - View my 📝 [Resume](https://divyanshuoft.github.io/https-divyansh.github.io-/DivyanshKachchhava.pdf)
 
