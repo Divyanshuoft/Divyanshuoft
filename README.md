@@ -29,12 +29,6 @@ I'm [Divyansh Kachchhava](https://divyanshuoft.github.io/https-divyansh.github.i
 - My portfolio website: https://divyanshuoft.github.io/https-divyansh.github.io-/
 - View my 📝 [Resume](https://divyanshuoft.github.io/https-divyansh.github.io-/DivyanshKachchhava.pdf)
 
-On what Project currently I'm working on?
-- I'm working in 3 Projects currently
-- SafeWalk: A security plaform which allow users to walk safely in their neighbourhood Credits: Google maps API. Extending it to socail media web app
-- Concorde: Developing a game using Assembly which allow user to play thorugh various levels and characters and also win or lose
-- System Monitering Tool (Updated): Making the System Efficient by using concurrent processes through pipes and forks
-
 As a student of Computer Science at the esteemed University of Toronto, I am an accomplished software engineer specializing in the intricate art of Software Engineering. I am a dynamic and accomplished software developer, armed with a deep understanding of object-oriented programming and broad experience in Android and web development.
 
 My relentless pursuit of new knowledge and projects has earned me a reputation as a versatile and industrious individual. My hobbies, including skiing, ice-skating, and air-rifle shooting, showcase my versatility and leadership potential. I am destined for greatness in the realm of technology.
