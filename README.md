@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 I'm [Divyansh Kachchhava](https://divyanshuoft.github.io/https-divyansh.github.io-/) and I am a undergrad student at [University of Toronto](https://www.utoronto.ca/) specializing in Computer Science and under the software engineering stream. My technology stack popular programming languages such as Python, Java, C++ and have more than 3 years of experience in android developent and web development. As a software developer, my vision is to create innovative solutions that positively impact the world by leveraging cutting-edge technology and my expertise in software engineering
 
-- 👀 I’m interested in front-end and android development
+- 👀 I’m interested in web and android development
 - 🌱 I’m a student studying computer science under the software enginerring stream at University of Toronto
 - 💞️ I’m looking to collaborate on cs projects focusing on web development
 - 📫 my email is divyansh.kachchhava@mail.utoronto.ca 
