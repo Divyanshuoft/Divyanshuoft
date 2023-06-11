@@ -1,4 +1,4 @@
-### Hi there 👋 I am [Divyansh Kachchhava](https://divyanshuoft.github.io/https-divyansh.github.io-/)! 👨‍💻
+### Hi there 👋 I am [Divyansh Kachchhava](https://divyanshuoft.github.io/https-divyansh.github.io-/)! I'm upcoming intern @[theScore](https://www.thescore.com/) 👨‍💻
 <p align="center">
   <img src="https://media2.giphy.com/avatars/mwooodward/cIe5MvDvX4Vc.gif" alt="Example GIF" width="20%" style="display: block; margin: auto;">
 </p>
@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-I'm [Divyansh Kachchhava](https://divyanshuoft.github.io/https-divyansh.github.io-/), a third-year student at [University of Toronto](https://www.utoronto.ca/) specializing in Computer Science and under the software engineering stream. My technology stack popular programming languages such as Python, Java, C++ and have more than 3 years of experience in mobile developent and web development. As a software developer, my vision is to create innovative solutions that positively impact the world by leveraging cutting-edge technology and my expertise in software engineering
+I'm [Divyansh Kachchhava](https://divyanshuoft.github.io/https-divyansh.github.io-/), a third-year student at [University of Toronto](https://www.utoronto.ca/) specializing in Computer Science and under the software engineering stream and upcoming intern @theScore. My technology stack popular programming languages such as Python, Java, C++ and have more than 3 years of experience in mobile developent and web development. As a software developer, my vision is to create innovative solutions that positively impact the world by leveraging cutting-edge technology and my expertise in software engineering
 
-- 👀 I’m interested in web and android development
+- 👀 I’m interested in web, android development and automation engineering
 - 🌱 I’m a student studying computer science under the software enginerring stream at University of Toronto
-- 💞️ I’m looking to collaborate on cs projects focusing on web development
+- 💞️ I’m looking to collaborate on cs projects focusing on development
 - 📫 my email is divyansh.kachchhava@mail.utoronto.ca 
-- 🔭 I’m currently learning game development using Assembly (Yes, you heard it right! I'm making one of those 80s n 90s old fashion game)
+- 🔭 I’m currently learning ios development and game development and want to finish it before my internship ends :)
 - My portfolio website: https://divyanshuoft.github.io/https-divyansh.github.io-/
 - View my 📝 [Resume](https://divyanshuoft.github.io/https-divyansh.github.io-/DivyanshKachchhava.pdf)
 
