@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 -->
 
 I'm [Divyansh Kachchhava](https://divyanshuoft.github.io/https-divyansh.github.io-/), a third-year student at [University of Toronto](https://www.utoronto.ca/) specializing in Computer Science and under the software engineering stream and upcoming intern @theScore. My technology stack popular programming languages such as Python, Java, C++ and have more than 3 years of experience in mobile developent and web development. As a software developer, my vision is to create innovative solutions that positively impact the world by leveraging cutting-edge technology and my expertise in software engineering
-
+```
+I'm currently working on creating an innovative web application integrating React, MongoDB for seamless video conferencing and efficient team collaboration. (CSCC01 course project, expected completion: August, 2023)
+```
 - 👀 I’m interested in web, android development and automation engineering
 - 🌱 I’m a student studying computer science under the software enginerring stream at University of Toronto
 - 💞️ I’m looking to collaborate on cs projects focusing on development
