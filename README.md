@@ -20,11 +20,8 @@ I'm [Divyansh Kachchhava](https://divyanshuoft.github.io/https-divyansh.github.i
 ```
 I'm currently focusing on open source contirbution and Numerical Algorithms for Computational Mathematics
 ```
->(CSCC01 course project (MERN), completed: August, 2023)
->
->(CSCC43 course project (JDBC), completed: August, 2023)
->
->(CSCC10 course project (UI/UX), completed: August, 2023)
+>(CSCD01 (Langchain open source contribution), expected completion: December, 2023)
+
 - 👀 I’m interested in web, android development and automation engineering
 - 🌱 I’m a student studying computer science under the software enginerring stream at University of Toronto
 - 💞️ I’m looking to collaborate on cs projects focusing on development
