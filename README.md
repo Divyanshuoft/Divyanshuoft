@@ -1,4 +1,4 @@
-### Hi there 👋 I am [Divyansh Kachchhava](https://divyanshuoft.github.io/https-divyansh.github.io-/)! I'm upcoming intern @[theScore](https://www.thescore.com/) 👨‍💻
+### Hi there 👋 I am [Divyansh Kachchhava](https://divyanshuoft.github.io/https-divyansh.github.io-/)! I'm an Software Automation Engineer intern @[theScore](https://www.thescore.com/), Toronto, Ontario and also an Open Source Developer @[ClickHouse](https://clickhouse.com/), Palo Alto, California 
 
 <!--
 **rusty-sj/rusty-sj** is a ✨ _special_ ✨ repository as its `README.md` (this file) appears on your GitHub profile.
