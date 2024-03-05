@@ -19,20 +19,6 @@ Here are some ideas to get you started:
 I'm [Divyansh Kachchhava](https://divyanshuoft.github.io/https-divyansh.github.io-/), a third-year student at [University of Toronto](https://www.utoronto.ca/) specializing in Computer Science and under the software engineering stream and upcoming intern @theScore. My technology stack popular programming languages such as Python, Java, C++ and have more than 3 years of experience in mobile developent and web development. As a software developer, my vision is to create innovative solutions that positively impact the world by leveraging cutting-edge technology and my expertise in software engineering
 ```
 I'm currently focusing on open source contirbution and Numerical Algorithms for Computational Mathematics
-```
->(CSCD01 (Langchain open source contribution), expected completion: December, 2023)
-
-- 👀 I’m interested in web, android development and automation engineering
-- 🌱 I’m a student studying computer science under the software enginerring stream at University of Toronto
-- 💞️ I’m looking to collaborate on cs projects focusing on development
-- 📫 my email is divyansh.kachchhava@mail.utoronto.ca 
-- 🔭 I’m currently learning ios development and game development and want to finish it before my internship ends :)
-- My portfolio website: https://divyanshuoft.github.io/https-divyansh.github.io-/
-- View my 📝 [Resume](https://divyanshuoft.github.io/https-divyansh.github.io-/DivyanshKachchhava.pdf)
-
-As a student of Computer Science at the esteemed University of Toronto, I am an accomplished software engineer specializing in the intricate art of Software Engineering. I am a dynamic and accomplished software developer, armed with a deep understanding of object-oriented programming and broad experience in Android and web development.
-
-My relentless pursuit of new knowledge and projects has earned me a reputation as a versatile and industrious individual. My hobbies, including skiing, ice-skating, and air-rifle shooting, showcase my versatility and leadership potential. I am destined for greatness in the realm of technology.
 
 **Languages and Tools:** 
 <div>
