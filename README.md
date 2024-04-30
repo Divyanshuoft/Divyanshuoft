@@ -1,4 +1,4 @@
-### Hi there 👋 I am [Divyansh Kachchhava](https://divyanshuoft.github.io/https-divyansh.github.io-/)! Incoming Web Developer at Engineering Career Center, UofT Engineering EdTech team!
+### Hi there 👋 I am [Divyansh Kachchhava](https://divyanshuoft.github.io/https-divyansh.github.io-/)!
 <!--
 **rusty-sj/rusty-sj** is a ✨ _special_ ✨ repository as its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-I'm [Divyansh Kachchhava](https://divyanshuoft.github.io/https-divyansh.github.io-/), a fourth-year student at [University of Toronto](https://www.utoronto.ca/) specializing in Computer Science and under the software engineering stream and upcoming intern @UofT Engineering. My technology stack popular programming languages such as Python, Java, C++ and have more than 3 years of experience in mobile developent and web development. As a software developer, my vision is to create innovative solutions that positively impact the world by leveraging cutting-edge technology and my expertise in software engineering
+I'm [Divyansh Kachchhava](https://divyanshuoft.github.io/https-divyansh.github.io-/), a fourth-year student at [University of Toronto](https://www.utoronto.ca/) specializing in Computer Science and under the software engineering stream and Software Developer intern @UofT. My technology stack popular programming languages such as Python, Java, C++ and have more than 3 years of experience in mobile developent and web development. As a software developer, my vision is to create innovative solutions that positively impact the world by leveraging cutting-edge technology and my expertise in software engineering
 
